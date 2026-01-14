@@ -121,7 +121,7 @@ If you have any questions about this privacy policy or your data, please contact
 
 ## 10. Additional Information for EU/UK Users
 
-**Data Controller:** B. S.
+**Data Controller:** Trackule
 
 **Legal Basis for Processing:**
 - Contract – to provide the service you've signed up for
